@@ -1,0 +1,7 @@
+Eu ligaria um dos interruptores por um periodo de tempo, até a lampada estar num estado quente o suficiente para
+ver se esteve acesa. Deixaria outro interruptor ligado e visitaria uma das salas.
+Se a sala que eu visitasse estivesse com a luz acesa, já saberia qual o interruptor dela. 
+Se a sala que eu visitasse estivesse com a luz apagada porém quente, eu saberia que é o interruptor que liguei e depois desliguei.
+Se a sala que eu visitasse estivesse com a luz apagada porém fria, saberia que aquela sala é do interruptor que não toquei.
+Dito isso, acenderia apenas mais um interruptor e iria verificar se a sala da segunda visita estaria acesa.
+Caso sim, é o interruptor que liguei, caso não, o interruptor que liguei pertence a outra sala.
